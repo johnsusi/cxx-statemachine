@@ -1,6 +1,0 @@
-[submodule "3rdparty/cmake-scripts"]
-	path = 3rdparty/cmake-scripts
-	url = git@github.com:johnsusi/cmake-scripts.git
-[submodule "3rdparty/rake-scripts"]
-	path = 3rdparty/rake-scripts
-	url = git@github.com:johnsusi/rake-scripts.git
